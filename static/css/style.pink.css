@@ -1173,7 +1173,7 @@ fieldset[disabled] .btn-template-primary.active {
 .top-image {
   position: relative;
   background: url('../img/fixed-background-2.jpg') center center repeat;
-  padding: 60px 0;
+  background-size: cover;
   color: white; /* Add this line */
 }
 .home-carousel .dark-mask {

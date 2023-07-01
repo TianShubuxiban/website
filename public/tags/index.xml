@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 天樞文理補習班</title>
-    <link>https://kennysuper007.github.io/tags/</link>
+    <link>https://github.com/TianShubuxiban/tags/</link>
     <description>Recent content in Tags on 天樞文理補習班</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="https://kennysuper007.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="https://github.com/TianShubuxiban/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>golang</title>
-      <link>https://kennysuper007.github.io/tags/golang/</link>
+      <link>https://github.com/TianShubuxiban/tags/golang/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
       
-      <guid>https://kennysuper007.github.io/tags/golang/</guid>
+      <guid>https://github.com/TianShubuxiban/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>https://kennysuper007.github.io/tags/hugo/</link>
+      <link>https://github.com/TianShubuxiban/tags/hugo/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
       
-      <guid>https://kennysuper007.github.io/tags/hugo/</guid>
+      <guid>https://github.com/TianShubuxiban/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>programming</title>
-      <link>https://kennysuper007.github.io/tags/programming/</link>
+      <link>https://github.com/TianShubuxiban/tags/programming/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
       
-      <guid>https://kennysuper007.github.io/tags/programming/</guid>
+      <guid>https://github.com/TianShubuxiban/tags/programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>theme</title>
-      <link>https://kennysuper007.github.io/tags/theme/</link>
+      <link>https://github.com/TianShubuxiban/tags/theme/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
       
-      <guid>https://kennysuper007.github.io/tags/theme/</guid>
+      <guid>https://github.com/TianShubuxiban/tags/theme/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go</title>
-      <link>https://kennysuper007.github.io/tags/go/</link>
+      <link>https://github.com/TianShubuxiban/tags/go/</link>
       <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
       
-      <guid>https://kennysuper007.github.io/tags/go/</guid>
+      <guid>https://github.com/TianShubuxiban/tags/go/</guid>
       <description></description>
     </item>
     

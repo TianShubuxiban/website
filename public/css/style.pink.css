@@ -79,7 +79,13 @@ button {
 .text-uppercase {
   text-transform: uppercase;
   letter-spacing: 0.08em;
+  font-size: 40px;
+  color: whitesmoke; /* This line might be redundant when text-fill-color and text-stroke are supported */
+  -webkit-text-fill-color: white; /* Set the fill color to white */
+  -webkit-text-stroke-width: 1px; /* Define the stroke width */
+  -webkit-text-stroke-color: black; /* Set the stroke color to black */
 }
+
 @media (max-width: 991px) {
   .text-center-sm {
     text-align: center;
@@ -1167,7 +1173,6 @@ fieldset[disabled] .btn-template-primary.active {
 .top-image {
   position: relative;
   background: url('../img/fixed-background-2.jpg') center center repeat;
-  padding: 60px 0;
   color: white; /* Add this line */
 }
 .home-carousel .dark-mask {

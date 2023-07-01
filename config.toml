@@ -1,4 +1,4 @@
-baseurl = "https://kennysuper007.github.io/" 
+baseurl = "https://github.com/TianShubuxiban/" 
 title = "天樞文理補習班"
 theme = "hugo-universal-theme"
 languageCode = "zh-tw"
@@ -481,7 +481,7 @@ pluralizelisttitles = false
     about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
 
 
-    copyright = "© 版權所有 天樞文理補習班 網頁設計 Bootstrapious"
+    copyright = "版權所有©2023 天樞文理補習班 Since 2007"
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
@@ -513,7 +513,6 @@ pluralizelisttitles = false
     <p style="font-size: 1.5em;">
         <a href="https://www.facebook.com/BigDiggrr6681668/" target="_blank" class="fab fa-facebook-f social-icon"></a>
         <a href="line://ti/p/@713tsrkw" target="_blank" class="fab fa-line social-icon"></a>
-        <a href="tel:03-6661668" target="_blank" class="fas fa-phone social-icon"></a>
         03-6661668
     </p>
     """
