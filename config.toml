@@ -1,4 +1,4 @@
-baseurl = "https://github.com/TianShubuxiban/" 
+baseurl = "https://github.com/TianShubuxiban/website" 
 title = "天樞文理補習班"
 theme = "hugo-universal-theme"
 languageCode = "zh-tw"
