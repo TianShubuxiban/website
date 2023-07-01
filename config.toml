@@ -4,7 +4,7 @@ theme = "hugo-universal-theme"
 languageCode = "zh-tw"
 defaultContentLanguage = "zh-tw"
 disqusShortname = "devcows"
-googleAnalytics = ""
+googleAnalytics = "G-1VYCG155Q5"
 
 
 # number of words of summarized post content (default 70)
