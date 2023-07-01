@@ -1,0 +1,40 @@
+{{ if isset .Site.Params "see_more" }} {{ if .Site.Params.see_more.enable }}
+<section
+  class="top-image text-center"
+  style="
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+    color: aliceblue;
+  "
+>
+  <div class="container d-flex flex-column align-items-center">
+    <div class="row">
+      <div class="col-md-12 text-center">
+        <!-- <div class="icon icon-lg">
+          <i class="{{ .Site.Params.see_more.icon }}"></i>
+        </div> -->
+        <h2 class="text-uppercase">
+          {{ .Site.Params.see_more.title | markdownify }}
+        </h2>
+        <h2 class="text-uppercase">
+          {{ .Site.Params.see_more.subtitle | markdownify }}
+        </h2>
+        <h2 class="text-uppercase">
+          {{ .Site.Params.see_more.subsubtitle | markdownify }}
+        </h2>
+        <!-- <p class="lead">{{ .Site.Params.see_more.subtitle | markdownify }}</p> -->
+        <p>
+          {{ with .Site.Params.see_more.link_url }}
+          <a href="{{ . }}" class="btn btn-template-transparent-black btn-lg">
+            {{ end }} {{ with .Site.Params.see_more.link_text }} {{ . |
+            markdownify }} {{ end }} {{ with .Site.Params.see_more.link_url }}
+          </a>
+          {{ end }}
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }} {{ end }}

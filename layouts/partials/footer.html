@@ -1,0 +1,53 @@
+<footer id="footer">
+  <div class="container">
+    {{ if isset .Site.Params "about_us" }}
+    <div class="col-md-4 col-sm-6">
+      <h4>{{ i18n "governmentFiling" }}</h4>
+
+      {{ .Site.Params.governmentFiling | safeHTML }}
+
+      <hr class="hidden-md hidden-lg hidden-sm" />
+    </div>
+    <!-- /.col-md-4 -->
+    {{ end }} {{ if isset .Site.Params "about_us" }}
+    <div class="col-md-4 col-sm-6">
+      <h4>{{ i18n "closeToSchool" }}</h4>
+
+      {{ .Site.Params.closeToSchool | safeHTML }}
+
+      <hr class="hidden-md hidden-lg hidden-sm" />
+    </div>
+    <!-- /.col-md-4 -->
+    {{ end }} {{ if isset .Site.Params "about_us" }}
+    <div class="col-md-4 col-sm-6">
+      <h4>{{ i18n "contactTitle" }}</h4>
+
+      {{ .Site.Params.message | safeHTML }}
+
+      <hr class="hidden-md hidden-lg hidden-sm" />
+    </div>
+    <!-- /.col-md-4 -->
+    {{ end }}
+  </div>
+  <!-- /.container -->
+</footer>
+
+<!-- /#footer -->
+
+<!-- *** FOOTER END *** -->
+
+<!-- *** COPYRIGHT ***
+_________________________________________________________ -->
+
+<div id="copyright">
+  <div class="container">
+    <div class="col-md-12">
+      {{ if isset .Site.Params "copyright" }}
+      <p class="text-center">{{ .Site.Params.copyright | safeHTML }}</p>
+      {{ end }}
+    </div>
+  </div>
+</div>
+<!-- /#copyright -->
+
+<!-- *** COPYRIGHT END *** -->
