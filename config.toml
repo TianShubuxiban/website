@@ -1,4 +1,4 @@
-baseurl = "https://github.com/TianShubuxiban/website" 
+baseurl = "https://github.com/TianShubuxiban/" 
 title = "天樞文理補習班"
 theme = "hugo-universal-theme"
 languageCode = "zh-tw"
@@ -513,7 +513,7 @@ pluralizelisttitles = false
     <p style="font-size: 1.5em;">
         <a href="https://www.facebook.com/BigDiggrr6681668/" target="_blank" class="fab fa-facebook-f social-icon"></a>
         <a href="line://ti/p/@713tsrkw" target="_blank" class="fab fa-line social-icon"></a>
-        03-6661668
+        <a href="tel:03-6661668" target="_blank">03-6661668</a>
     </p>
     """
 
