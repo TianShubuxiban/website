@@ -2,6 +2,9 @@
 <html lang="{{ .Site.LanguageCode }}">
   <head>
     {{ partial "headers.html" . }} {{ partial "custom_headers.html" . }}
+    <!-- Add GA4 support -->
+    {{ if .Site.Params.GoogleAnalyticsID }} {{ partial "analytics-gtag.html" .
+    }} {{ end }}
   </head>
 
   <body>

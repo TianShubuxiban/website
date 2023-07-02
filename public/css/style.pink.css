@@ -1173,7 +1173,9 @@ fieldset[disabled] .btn-template-primary.active {
 .top-image {
   position: relative;
   background: url('../img/fixed-background-2.jpg') center center repeat;
+  background-size: cover;
   color: white; /* Add this line */
+  margin-bottom: 0;  /* 调整此值以改变图片下方的间距 */
 }
 .home-carousel .dark-mask {
   position: absolute;
