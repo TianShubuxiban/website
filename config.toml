@@ -574,7 +574,7 @@ pluralizelisttitles = false
 [params.see_more]
     enable = true
     icon = "fas fa-exclamation"
-    title = """e"""
+    title = """要繼續賣糖水?"""
 
     subtitle = """還是……"""
     subsubtitle = """一起改變世界!"""
